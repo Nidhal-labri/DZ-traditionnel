@@ -1,0 +1,17 @@
+  body {
+    font-family: "Roboto", sans-serif;
+    background-image: url(../imgs/bg.png);
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  h1 {
+    color: #B52715;
+  }
+  .btn {
+    background-color: #B52715;
+    border: none;
+  }
+  .btn:hover{
+    background-color: #ee6654;
+  }
